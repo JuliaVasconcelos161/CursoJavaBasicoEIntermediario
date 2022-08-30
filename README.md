@@ -1,2 +1,2 @@
 # CursoJavaBasico
-Arquivos desenvolvidos por mim, provenientes do curso java básico da Loiane
+Meu desenvolvimento acompanhando o curso Java Básico da Loiane Groner

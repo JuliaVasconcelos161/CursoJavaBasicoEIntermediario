@@ -1,4 +1,4 @@
-package com.loiane.cursojava.exercicios.aula14;
+package com.loiane.cursojava.aula14;
 import java.util.Scanner;
 
 public class IfElse {

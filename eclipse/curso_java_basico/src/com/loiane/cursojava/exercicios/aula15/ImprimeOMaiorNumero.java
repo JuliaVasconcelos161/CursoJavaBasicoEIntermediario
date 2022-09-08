@@ -14,7 +14,7 @@ public class ImprimeOMaiorNumero {
 		
 		if (numero1 > numero2)
 		{
-			System.out.println("O primeiro número é maior que o segundo");
+			System.out.println("O número " + numero1 + " é maior ");
 		}
 		else if(numero2 == numero1)
 		{
@@ -22,7 +22,7 @@ public class ImprimeOMaiorNumero {
 		}
 		else
 		{
-			System.out.println("O segundo número é maior que o primeiro");
+			System.out.println("O número " + numero2 + " é maior ");
 		}
 	}
 

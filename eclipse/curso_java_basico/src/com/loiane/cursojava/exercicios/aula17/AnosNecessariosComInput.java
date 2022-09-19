@@ -27,7 +27,7 @@ public class AnosNecessariosComInput {
 			{
 				System.out.println("População A precisa ser maior que 0");
 			}
-		}while(!valido);
+		}while(!valido); 
 		valido = false;
 		
 		do
@@ -77,10 +77,10 @@ public class AnosNecessariosComInput {
 		
 
 		
-		while(habitantesA < habitantesB)
+		while(habitantesA <= habitantesB)
 		{
-			habitantesA += habitantesA * taxaA;
-			habitantesB += habitantesB * taxaB;
+			habitantesA += habitantesA * (taxaA/100);
+			habitantesB += habitantesB * (taxaB/100);
 			anosParaUltrapassar++;
 		}
 		
